@@ -1,0 +1,8 @@
+prefix=/home/shubh_khandelwal/Documents/ROS/Motor_Control_Workstation_ROS_SERIAL/install
+
+Name: motor
+Description: Description of motor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
