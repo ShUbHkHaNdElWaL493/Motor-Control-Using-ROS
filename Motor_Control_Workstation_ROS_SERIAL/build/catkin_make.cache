@@ -1,2 +1,0 @@
-motor
--DCATKIN_DEVEL_PREFIX=/home/shubh_khandelwal/Documents/ROS/Motor_Control_Workstation_ROS_SERIAL/devel -DCMAKE_INSTALL_PREFIX=/home/shubh_khandelwal/Documents/ROS/Motor_Control_Workstation_ROS_SERIAL/install -G Unix Makefiles
